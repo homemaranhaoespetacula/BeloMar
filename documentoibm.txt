@@ -1,0 +1,13 @@
+Documento do trabalho de Floricultura "BeloMar"
+
+Tecnologias utilizadas:
+- HTML5
+- Bootstrap
+- CSS
+- APP = Canva (wireframes)
+- PowerPoint -> slides
+- JavaScript 
+
+Referências de sites:
+- CSS -> https://www.w3schools.com 
+- Slides -> https://slidesgo.com

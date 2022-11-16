@@ -15,7 +15,7 @@ Referências de sites:
 
 Uma breve descrição:
 Olá, somos um grupo de alunos do ensino médio com 5 integrantes, e criamos um site de floricultura.
-Esse trabalho foi desenvolvido para a feira tecnologica da nossa escola/ETEC ZL.
+Esse trabalho foi desenvolvido para a feira tecnologica da nossa escola/ETEC ZL e também direcionado pela empresa IBM.
 Para a visualização do nosso site ele está disponivel no Github online, um repositório de dados.
 Mas também pode ser visualizado o nosso site através desse link:
 

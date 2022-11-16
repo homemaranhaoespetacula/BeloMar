@@ -4,10 +4,17 @@ Tecnologias utilizadas:
 - HTML5
 - Bootstrap
 - CSS
-- APP = Canva (wireframes)
-- PowerPoint -> slides
+- APicativo = Plataforma digital "Canva" (wireframes) ou seja "esqueletos de sites"
+- PowerPoint -> Plataforma digital onde foi feito os slides
 - JavaScript 
 
 Referências de sites:
 - CSS -> https://www.w3schools.com 
 - Slides -> https://slidesgo.com
+- Bootstrap -> https://getboostrap.com
+
+Uma breve descrição:
+Olá, somos um grupo de alunos do ensino médio com 5 integrantes, e criamos um site de floricultura.
+Esse trabalho foi desenvolvido para a feira tecnologica da nossa escola/ETEC ZL.
+Para a visualização do nosso site ele está disponivel no Github online, um repositório de dados.
+Mas também pode ser visualizado o nosso site através desse link:

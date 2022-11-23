@@ -1,0 +1,23 @@
+	<div class="container overflow-hidden text-center">
+        <div class="row">
+            <div class="col">
+                <p>Datas Comemorativas</p>
+                <h1>Dias das Mães</h1>
+                <p>
+                    As rosas são flores símbolo do amor, amor fraternal, amor romantico, simplesmente amor.
+                </p class="text-md-left">
+                Por que não presentear sua mãe com uma de nossas rosas? disponíveis em várias cores, solitárias ou buquê
+                <p>
+                </p>
+                <p>
+                    Personalize seu presente, que é entregue em até 12 horas!
+                    (rtl [right to the left])</p>
+            </div>
+            <div class="col">
+                <figure class="figure">
+                    <img src="img/teste2.jpeg" class="figure-img img-fluid rounded" alt="...">
+                    <figcaption class="figure-caption text-end">A caption for the above image.</figcaption>
+                </figure>
+            </div>
+        </div>
+    </div>

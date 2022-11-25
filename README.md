@@ -4,7 +4,7 @@ Tecnologias utilizadas:
 - HTML5
 - Bootstrap
 - CSS
-- APicativo = Plataforma digital "Canva" (wireframes) ou seja "esqueletos de sites"
+- APlicativo = Plataforma digital "Canva" (wireframes) ou seja "esqueletos de sites"
 - PowerPoint -> Plataforma digital onde foi feito os slides
 - JavaScript 
 

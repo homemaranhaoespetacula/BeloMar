@@ -42,4 +42,4 @@ Porque o nosso site é mais seguro, confiável e irreverente.
 
 https://github.com/marisouza31/BeloMar.git
 
-https://marisouza31.github.io/BeloMar/files[BeloMar wireframes.pptx](https://github.com/marisouza31/BeloMar/files/10088274/BeloMar.wireframes.pptx)
+https://marisouza31.github.io/BeloMar/files [BeloMar  wireframes.pptx] (https://github.com/marisouza31/BeloMar/files/10088274/BeloMar.wireframes.pptx
